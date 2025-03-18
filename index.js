@@ -11,7 +11,7 @@ import { fileURLToPath } from 'url'
 import { dirname } from 'path'
 import CFonts from 'cfonts'
 import ejs from 'ejs'
-const PORT = process.env.PORT || 3000
+const PORT = process.env.PORT || 4000
 
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = dirname(__filename)
